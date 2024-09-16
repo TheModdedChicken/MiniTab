@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "minitab",
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

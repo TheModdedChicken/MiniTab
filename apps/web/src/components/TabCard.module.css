@@ -1,0 +1,11 @@
+.card {
+  height: fit-content;
+  width: 350px;
+
+  display: grid;
+
+  border: 2px solid black;
+  border-radius: 6px;
+
+  padding: 10px;
+}
