@@ -16,8 +16,8 @@ export const SearchArgsSchema = z.object({
 
 export default Routes
   .route('/tabs', new Hono()
-    .on(
-      'SEARCH', '/',
+    .post(
+      '/',
 
       zValidator('json', SearchArgsSchema),
 

@@ -8,7 +8,7 @@ import { ServiceContext } from '../utility/service';
 import api from '../utility/api';
 
 const getTabsAction = action(async (args: API.Types.SearchArgs) => {
-  const res = await api.tabs.$search({ json: args });
+  const res = await api.tabs.$post({ json: args });
 
   if (res.ok) return await res.json();
 
