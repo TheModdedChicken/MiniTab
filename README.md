@@ -18,14 +18,14 @@ Mini Tab aims to be a fast, clean, and feature-rich alternative to other guitar 
 
 </details>
 
+### Planned
+
 <details>
 <summary><b>Chords: Overhead and popup</b></summary>
 
 > For some strange reason many alternative Ultimate Guitar frontends choose to have either overhead or popup chords, but never both. Mini Tab has both :)
 
 </details>
-
-### Planned
 
 <details>
 
