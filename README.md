@@ -2,7 +2,7 @@
 
 An alternate frontend for [Ultimate Guitar](https://ultimate-guitar.com/) / refitting of [Ultimate Tab](https://github.com/BenoitBellegarde/UltimateTab)
 
-> [!WARNING] Work-in-progress
+> [!WARNING]
 > This project is very incomplete and is currently **_NOT_** in a minimum viable state.
 
 ## Features
