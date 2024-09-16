@@ -1,4 +1,4 @@
-import parse from 'node-html-parser';
+import { parse } from 'node-html-parser';
 import { formatTabType, ScrapedTab, SearchArgs, Tab, TabType, UGChordCollection } from './types';
 import { searchArgsToWeb } from './web';
 
