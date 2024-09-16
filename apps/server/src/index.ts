@@ -34,3 +34,5 @@ export default {
 export type Routes = typeof api
 
 export * as Types from './utility/types'
+
+console.log("Server is running!");
